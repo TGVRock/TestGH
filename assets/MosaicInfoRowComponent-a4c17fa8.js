@@ -1,1 +1,0 @@
-import{c as s,e as a,f as o,t,o as n,_ as c}from"./index-3663960e.js";const _={class:"row"},l={class:"col-3"},d={class:"col-9"},i=s({__name:"MosaicInfoRowComponent",props:{title:null,data:null},setup(e){return(p,r)=>(n(),a("div",_,[o("div",l,[o("p",null,t(e.title),1)]),o("div",d,[o("p",null,t(e.data),1)])]))}});const u=c(i,[["__scopeId","data-v-7d98daad"]]);export{u as M};
